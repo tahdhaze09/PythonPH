@@ -1,0 +1,5 @@
+termone = input("T1?:")
+termtwo = input("T2?:")
+termthree = input("T2?:")
+totalsum = float(termone) + float(termtwo) + float(termthree)
+print("Total:,", totalsum)

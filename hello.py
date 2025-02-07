@@ -1,1 +1,6 @@
-print("Hello World!")
+termone = input("T1?:")
+termtwo = input("T2?:")
+totalsum = float(termone) + float(termtwo)
+totaldiff = float(termone) - float(termtwo)
+print("Total sum =", totalsum)
+print("Total diff =", totaldiff)
